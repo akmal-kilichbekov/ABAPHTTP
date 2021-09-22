@@ -22,7 +22,7 @@
  "to_PurchaseOrderItem":
  [
   {
-   "PurchaseOrderItemText":"Trading Good,Reorder PointTG-D11",
+   "PurchaseOrderItem":"00010",
    "Material":"TG-D11",
    "ManufacturerMaterial":"TG-D11",
    "Plant":"1710",
